@@ -1,3 +1,14 @@
+/*
+* @author  Oleksii Shevchenko KNUTE 1m
+ *
+ *
+ *@version 01.06.20
+ *
+ *Modul 1 task 2
+ * 
+2.  Check a string as a palindrome ( 2 points)*/
+
+
 package com.company;
 
 public class Main {
